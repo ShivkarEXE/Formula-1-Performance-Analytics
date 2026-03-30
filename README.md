@@ -1,2 +1,2 @@
-# Formula-1-Performance-Analytics-
-Built an end-to-end analytics platform to evaluate driver, team, and strategy performance using real race telemetry and session data.
+# Formula-1-Performance-Analytics
+Build a performance analytics platform to evaluate driver consistency, team strategy efficiency, and race outcomes using Formula 1 data (2023–2025).
